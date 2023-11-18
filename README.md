@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm Adam. I really enjoy learning web technologies and frameworks like Bootstrap and Tailwind CSS, as well as working in WordPress. I also enjoy spending time on CodePen.
+Hi, I'm Adam. I'm interested in web development and enjoy learning new technologies and frameworks, especially Bootstrap and Tailwind CSS. I also like working in WordPress and enjoy spending time on CodePen.
