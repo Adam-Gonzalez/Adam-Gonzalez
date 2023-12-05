@@ -9,7 +9,6 @@ Hi, I'm Adam. I'm interested in web development and enjoy learning new technolog
 - GA4 Certification: Completed November 2023
   
 ## Certifications Coming Soon!!
-- GA4 Certification 
 - The Git & GitHub Bootcamp by Colt Steele
 - Google Ads For Beginners 2023 - Step By Step Process by Joshua George
 
