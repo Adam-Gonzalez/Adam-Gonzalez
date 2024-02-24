@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Hi, I'm Adam. I'm interested in web development and enjoy learning new technologies, especially Bootstrap and Tailwind CSS. I also enjoy spending time on CodePen. 
 
 ## Certifications
 - W3Schools CSS Completed: April 23, 2023
