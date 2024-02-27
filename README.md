@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 Follow me along my journey with "Become a WordPress Developer: Unlocking Power With Code," a highly recommended course.
 
